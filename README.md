@@ -3,7 +3,6 @@
 Overview:
 Developed a comprehensive expression evaluator for the E++ language, capable of interpreting and computing the results of complex mathematical expressions involving arithmetic operations and variables. This project involves implementing components such as UnlimitedInt and UnlimitedRational classes for handling unlimited-precision integers and rational numbers, respectively.
 
-Key Components:
 UnlimitedInt Class: Implemented to handle integers of arbitrary size, this class supports operations such as addition, subtraction, multiplication, division, and modulus using dynamic memory allocation.
 
 UnlimitedRational Class: Extended the UnlimitedInt capabilities to handle rational numbers represented as a pair of UnlimitedInts (numerator and denominator), ensuring operations on rational numbers maintain high precision without overflow issues.
